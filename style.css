@@ -186,10 +186,10 @@ ul.topnav li.right {float: left;}
     }
     
     #avatar {
-        width: 0px auto;
+        width: 350px auto;
         height: auto;
         /* background-color: rgb(82, 82, 82); */
-        padding: 0px 63px;
+        padding: 0px 50px;
     }
     
     .overlay {
@@ -206,7 +206,8 @@ ul.topnav li.right {float: left;}
     }
 
     #p2,#p1 {
-        width: 375px;
+        width: 350px;
+        
         /* background-color: red; */
     }
     
@@ -333,3 +334,4 @@ input[type=text], select, textarea {
         background-color: #6e6e6e;
         padding: 10px;
     }
+ }
